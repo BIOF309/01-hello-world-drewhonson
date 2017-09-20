@@ -1,3 +1,2 @@
 # 01-hello-world-drewhonson
-# 01-hello-world-drewhonson
-# 01-hello-world-drewhonson
+print("Hello World")
